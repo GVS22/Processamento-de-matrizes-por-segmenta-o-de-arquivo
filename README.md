@@ -3,10 +3,11 @@
 Trabalho realizado para a disciplina de Algoritmos e Estrutura de Dados 2 \
 CEFET - MG Campus V \
 Gabriel Vitor Silva \
+https://replit.com/@GabrielGvs
 
 ## Compilar ##
 ```
-(https://replit.com/@GabrielGvs)
+https://replit.com/@GabrielGvs
 ```
 ## introdução ##
 ### Apresentação do Problema ###
