@@ -6,7 +6,7 @@ Gabriel Vitor Silva \
 
 ## Compilar ##
 ```
-[(https://replit.com/@GabrielGvs)]
+(https://replit.com/@GabrielGvs)
 ```
 ## introdução ##
 ### Apresentação do Problema ###
